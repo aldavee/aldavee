@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Al Dave 👋
 
-<!--
-**aldavee/aldavee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer passionate about building apps and backend systems
 
-Here are some ideas to get you started:
+## Tech Stack
+- Flutter
+- ASP.NET Core
+- Node.js
+- Docker
+- PostgreSQL
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Mobile and web apps
+- Backend APIs
+- DevOps and deployment setups
+
+## Connect
+- GitHub: [@aldavee](https://github.com/aldavee)
